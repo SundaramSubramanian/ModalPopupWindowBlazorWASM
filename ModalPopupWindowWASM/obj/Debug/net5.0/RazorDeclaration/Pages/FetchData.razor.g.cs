@@ -112,7 +112,7 @@ using Blazored.Modal.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 37 "D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\Pages\FetchData.razor"
+#line 32 "D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\Pages\FetchData.razor"
        
     private WeatherForecast[] forecasts;
 
