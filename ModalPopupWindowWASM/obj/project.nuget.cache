@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NgDy5GyQo8SDkt453EI3zS2Ze3qQUzZp49A0JCpQoNzlbwVQA43j+X80QYjNKSoWOXs7yWwcCsdOB3iBsbxIug==",
+  "dgSpecHash": "XkStFXOdySz5V4UszyEVRQTfMjfVOxhhuAflR7o+8AhG6fQpMi0xsYAXzJhIVymKBbC59M8kyq4IScnPuk0n3Q==",
   "success": true,
   "projectFilePath": "D:\\Projects\\ModalPopupWindowBlazorWASM\\ModalPopupWindowWASM\\ModalPopupWindowWASM.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\blazored.modal\\6.0.1\\blazored.modal.6.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.2\\microsoft.aspnetcore.authorization.5.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.2\\microsoft.aspnetcore.components.5.0.2.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\5.0.2\\microsoft.aspnetcore.components.analyzers.5.0.2.nupkg.sha512",

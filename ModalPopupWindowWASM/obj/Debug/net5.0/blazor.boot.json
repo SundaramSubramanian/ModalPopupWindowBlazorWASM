@@ -7,6 +7,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
+      "Blazored.Modal.dll": "sha256-yoXX75RsqCVb+q2v0ZS7Hd6lW+OeSPHHPyJBk\/AyYMg=",
       "Microsoft.AspNetCore.Authorization.dll": "sha256-tSI\/sWibeXy10mSTYniRaAW1BkFvR+1w10HVw6aquu4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-CTkE4NcLAJnfPm5eGSt8MtA3FWFg8+iGDqt4I9K6C4I=",
       "Microsoft.AspNetCore.Components.Forms.dll": "sha256-0+dc6h9OL5q2q6GN14SV\/bC65+8m+I6Gv0MuHUonhbs=",
@@ -195,11 +196,11 @@
       "mscorlib.dll": "sha256-pfURHvguun0aGHBikgqj1tcIC9yVwDja+omBjH9K0WU=",
       "netstandard.dll": "sha256-zDt6ZaAbtKh1rxzQ7CMtlli234CuRfzZU6Fe9cc2FG4=",
       "System.Private.CoreLib.dll": "sha256-KRDEW\/5qbC0\/9M5IbDGIAM1sKCutWHyq9oLl8WW0c3I=",
-      "ModalPopupWindowWASM.dll": "sha256-Nu2VD5ma8UJdu1TLRYf+1U3wi\/VTYs+hZ3CfjxTmEgg="
+      "ModalPopupWindowWASM.dll": "sha256-QA7KKQ2OI4FOBfCAKGbsSqdp1bR2FehmvpNnZ+bTmKU="
     },
     "lazyAssembly": null,
     "pdb": {
-      "ModalPopupWindowWASM.pdb": "sha256-NPdNEYGWjeXbOq5EGLq0dCVFDQO3ei7ZZ3fZ5KmS\/Ko="
+      "ModalPopupWindowWASM.pdb": "sha256-wM70heYXIQx2bcr+Zc3o8Tzr8p8ta\/sKjfTul8yCTj4="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-\/mwFhTTF4Kca8PG7G6rxaGqCueWH9XbWEIK1Fm8GbFg=",
