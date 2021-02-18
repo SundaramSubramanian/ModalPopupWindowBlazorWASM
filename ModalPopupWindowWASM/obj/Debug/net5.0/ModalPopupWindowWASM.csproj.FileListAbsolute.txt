@@ -398,6 +398,7 @@ D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\bin\Debug\net5.0\www
 D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
 D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
 D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.2.js
+D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\ModalPopupWindowWASM.csprojAssemblyReference.cache
 D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\ModalPopupWindowWASM.GeneratedMSBuildEditorConfig.editorconfig
 D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\ModalPopupWindowWASM.AssemblyInfoInputs.cache
 D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\ModalPopupWindowWASM.AssemblyInfo.cs
@@ -632,3 +633,5 @@ D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\Mod
 D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\ModalPopupWindowWASM.dll
 D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\ref\ModalPopupWindowWASM.dll
 D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\ModalPopupWindowWASM.pdb
+D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\RazorDeclaration\Pages\PopupDemo.razor.g.cs
+D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\obj\Debug\net5.0\Razor\Pages\PopupDemo.razor.g.cs

@@ -111,7 +111,7 @@ using Blazored.Modal.Services;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\Shared\NavMenu.razor"
+#line 29 "D:\Projects\ModalPopupWindowBlazorWASM\ModalPopupWindowWASM\Shared\NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
